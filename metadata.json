@@ -1,0 +1,7 @@
+{
+  "name": "SitePrint AI - Brand & Site Architect",
+  "description": "Uma plataforma SaaS avançada que analisa sites e imagens para gerar prompts de criação de sites hiper-estruturados utilizando IA.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
